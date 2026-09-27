@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# Java
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local configuration / credentials
+scripts/config.sh
+.env
